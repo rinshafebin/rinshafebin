@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rinsha Febin</h1>
 <h3 align="center">Hi, I’m Rinsha Febin —Python full-stack developer. passion for building powerful and user-friendly web applications. My expertise lies in Python frameworks like Django and DRF on the backend, and React on the frontend. I love turning complex ideas into scalable, maintainable systems using modern development practices and clean code.</h3>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="coding gif" width="500"/>
+</p>
 
 - 🔭 I’m currently working on [Ecommerce project](https://github.com/rinshafebin/stylenest)
 
