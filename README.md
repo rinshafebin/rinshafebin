@@ -76,7 +76,7 @@
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48"/><br>SQLite
     </td>
     <td align="center" width="96">
-      <img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/b7ea9dae-7907-48b2-a3fb-0673f4eff363" alt="Swagger API" width="48" height="48"/><br>Swagger API
+      <img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/b7ea9dae-7907-48b2-a3fb-0673f4eff363" alt="Swagger API" width="48" height="48"/><br>Swagger
     </td>
     <td align="center" width="96">
       <img src="https://jwt.io/img/icon.svg" alt="JWT" width="48" height="48"/><br>JWT
