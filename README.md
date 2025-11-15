@@ -11,40 +11,84 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 
-<table>
+<h3 align="left">Languages and Tools:</h3>
+<table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" /><br>Python
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48"/><br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" /><br>Django
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="48" height="48"/><br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /><br>PostgreSQL
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48"/><br>REST API
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="62" height="62" /><br>DRF
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48"/><br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" /><br>HTML
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48"/><br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" /><br>CSS
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux Toolkit" width="48" height="48"/><br>Redux Toolkit
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" /><br>JavaScript
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48"/><br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" /><br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="62" height="62" /><br>Redux Toolkit
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" /><br>Tailwind CSS
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="48" height="48"/><br>Redis
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48"/><br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="48" height="48"/><br>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48"/><br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48"/><br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48"/><br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48"/><br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48"/><br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48"/><br>Tailwind
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48"/><br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48"/><br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48"/><br>SQLite
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/b7ea9dae-7907-48b2-a3fb-0673f4eff363" alt="Swagger API" width="48" height="48"/><br>Swagger API
+    </td>
+    <td align="center" width="96">
+      <img src="https://jwt.io/img/icon.svg" alt="JWT" width="48" height="48"/><br>JWT
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48"/><br>Docker
+    </td>
+    <td align="center" width="96"></td>
+    <td align="center" width="96"></td>
+  </tr>
 </table>
+
 
 </div>
 
